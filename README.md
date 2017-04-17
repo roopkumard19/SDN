@@ -1,1 +1,1 @@
-# This is my SDN programming training
+# These are my SDN python applications using OpenDaylight Controller
